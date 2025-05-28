@@ -1,70 +1,92 @@
-# Getting Started with Create React App
+🃏 CardApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+CardApp é uma aplicação web voltada para a criação de cartas personalizadas, ideal para jogos de RPG, diversão entre amigos, ou criação de conteúdos visuais únicos. Com uma interface simples e intuitiva, o usuário pode montar cartas completas com imagem, nome, descrição e outros atributos.
 
-## Available Scripts
+> Acesse a versão online: cardapp-tau.vercel.app
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+✨ Funcionalidades
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Criação de cartas com campos personalizados
 
-### `npm run build`
+Upload de imagem da carta
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Inserção de nome, descrição e atributos
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Visualização em tempo real do resultado
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Interface limpa e responsiva
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+🛠️ Tecnologias Utilizadas
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+React
 
-## Learn More
+Create React App
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Vercel (deploy)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+📦 Instalação Local
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. Clone o repositório:
 
-### Making a Progressive Web App
+git clone https://github.com/Rodrigo2488/cardapp.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+2. Acesse a pasta e instale as dependências:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+cd cardapp
+npm install
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+3. Inicie a aplicação:
 
-### `npm run build` fails to minify
+npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+4. Acesse no navegador:
+
+http://localhost:3000
+
+
+
+
+---
+
+🧪 Testes
+
+Para rodar os testes (se houver):
+
+npm test
+
+
+---
+
+🚀 Deploy
+
+A aplicação já está hospedada gratuitamente na Vercel. Para realizar o seu próprio deploy:
+
+1. Crie uma conta em vercel.com
+
+
+2. Faça o link do repositório e implante automaticamente
+
+
+
+
+---
+
+📄 Licença
+
+Distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
